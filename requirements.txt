@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+catboost
+xgboost
+tqdm
+flask
+python-dotenv
+pymysql
+ipykernel
+mlflow
+#-e .
